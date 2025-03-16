@@ -27,4 +27,4 @@ A simple, responsive calculator built with vanilla JavaScript, HTML, and CSS.
 
 ## Contact
 Adam Badkouk - [@AdamBadkouk](https://github.com/AdamBadkouk)
-Project Link: [https://github.com/AdamBadkouk/javascript-calculator](https://github.com/AdamBadkouk/CalculatorJs)
+Project Link: [https://github.com/AdamBadkouk/CalculatorJs](https://github.com/AdamBadkouk/CalculatorJs)
