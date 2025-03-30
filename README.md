@@ -24,7 +24,3 @@ A simple, responsive calculator built with vanilla JavaScript, HTML, and CSS.
 - Implement scientific calculator functions
 - Add calculation history
 - Support for parentheses and more complex expressions
-
-## Contact
-Adam Badkouk - [@AdamBadkouk](https://github.com/AdamBadkouk)
-Project Link: [https://github.com/AdamBadkouk/javascript-calculator](https://github.com/AdamBadkouk/CalculatorJs)
