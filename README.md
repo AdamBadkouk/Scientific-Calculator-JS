@@ -13,13 +13,6 @@ A simple, responsive calculator built with vanilla JavaScript, HTML, and CSS.
 - CSS3
 - JavaScript 
 
-## Usage
-- Click on number buttons to input values
-- Use operation buttons (+, -, ×, /) to perform calculations
-- Press "=" to see the result
-- "C" button clears the display
-- "←" button removes the last character entered
-
 ## Future Enhancements
 - Implement scientific calculator functions
 - Add calculation history
