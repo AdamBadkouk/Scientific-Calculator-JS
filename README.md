@@ -24,13 +24,6 @@ A modern scientific calculator with basic arithmetic, advanced math functions, c
 - Dark/light theme toggle
 - Responsive design for all devices
 
-## Usage
-
-- **Basic Tab**: Perform standard arithmetic operations
-- **Scientific Tab**: Access advanced mathematical functions
-- **History Tab**: View and reuse previous calculations
-- **Theme Toggle**: Switch between dark and light modes
-
 ## Technologies Used
 
 - HTML5
