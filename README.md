@@ -29,8 +29,3 @@ A modern scientific calculator with basic arithmetic, advanced math functions, c
 - HTML5
 - CSS3 
 - JavaScript
-
-## Future Enhancements
-
-- Graphing capabilities
-- Unit conversions
