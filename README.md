@@ -23,9 +23,3 @@ A modern scientific calculator with basic arithmetic, advanced math functions, c
 - Tab-based interface (Basic, Scientific, History)
 - Dark/light theme toggle
 - Responsive design for all devices
-
-## Technologies Used
-
-- HTML5
-- CSS3 
-- JavaScript
