@@ -23,6 +23,7 @@ A modern scientific calculator with basic arithmetic, advanced math functions, c
 - Tab-based interface (Basic, Scientific, History)
 - Dark/light theme toggle
 - Responsive design for all devices
+<<<<<<< HEAD
 
 ## Usage
 
@@ -41,3 +42,5 @@ A modern scientific calculator with basic arithmetic, advanced math functions, c
 
 - Graphing capabilities
 - Unit conversions
+=======
+>>>>>>> 83aba17baa6ce175787b0e7ab1db5137506ad2d0

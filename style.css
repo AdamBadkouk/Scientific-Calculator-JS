@@ -330,6 +330,7 @@ button:active {
   transform: scale(1.1);
 }
 
+<<<<<<< HEAD
 /* Graphing panel styles */
 #graph-container {
   width: 100%;
@@ -375,3 +376,34 @@ button:active {
       height: 25px;
   }
 }
+=======
+/* Responsive adjustments */
+@media (max-width: 480px) {
+  .calculator {
+    padding: 15px;
+  }
+  
+  .buttons {
+    grid-gap: 8px;
+  }
+  
+  button {
+    font-size: 16px;
+    height: 45px;
+  }
+  
+  .sci-fun {
+    font-size: 14px;
+  }
+  
+  .display {
+    font-size: 24px;
+    height: 50px;
+  }
+  
+  .expression {
+    font-size: 14px;
+    height: 25px;
+  }
+}
+>>>>>>> 83aba17baa6ce175787b0e7ab1db5137506ad2d0
