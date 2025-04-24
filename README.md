@@ -1,5 +1,4 @@
 # Scientific Calculator
-
 A modern scientific calculator with basic arithmetic, advanced math functions, calculation history, and dark/light theme support. Built with JavaScript, HTML, and CSS.
 
 ## Features
@@ -11,7 +10,7 @@ A modern scientific calculator with basic arithmetic, advanced math functions, c
 - Clear and backspace functionality
 
 ### Scientific Operations
-- Trigonometric functions (sin, cos, tan and their inverses)
+- Trigonometric functions (sin, cos, tan, and their inverses)
 - Logarithms (log, ln)
 - Exponents and roots (square, cube, x^y, square root)
 - Constants (π, e)
@@ -23,17 +22,3 @@ A modern scientific calculator with basic arithmetic, advanced math functions, c
 - Tab-based interface (Basic, Scientific, History)
 - Dark/light theme toggle
 - Responsive design for all devices
-<<<<<<< HEAD
-
-## Usage
-
-- **Basic Tab**: Perform standard arithmetic operations
-- **Scientific Tab**: Access advanced mathematical functions
-- **History Tab**: View and reuse previous calculations
-- **Theme Toggle**: Switch between dark and light modes
-
-## Technologies Used
-
-- HTML5
-- CSS3 
-- JavaScript
