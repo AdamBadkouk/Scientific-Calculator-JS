@@ -22,9 +22,6 @@ document
 document
   .getElementById('history-tab')
   .addEventListener('click', () => switchTab('history'));
-document
-  .getElementById('unit-tab')
-  .addEventListener('click', () => switchTab('unit'));
 
 function switchTab(tabName) {
   // Hide all panels and deactivate all tabs
@@ -301,14 +298,6 @@ function toggleDarkMode() {
   } else {
     btn.textContent = '🌙'; // moon icon for dark mode toggle
   }
-}
-
-// Tab switch outside function
-function switchTab(tabName) {
-  document.querySelectorAll('.panel').forEach((panel) => panel.classList.remove('active'));
-  document.querySelectorAll('.tab-button').forEach((tab) => tab.classList.remove('active'));
-  document.getElementById(`${tabName}-tab`).classList.add('active');
-  document.getElementById(`${tabName}-panel`).classList.add('active');
 }
 
 // Initialize display and history on load

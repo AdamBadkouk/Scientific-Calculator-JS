@@ -17,7 +17,6 @@
           <button id="basic-tab" class="tab-button active">Basic</button>
           <button id="scientific-tab" class="tab-button">Scientific</button>
           <button id="history-tab" class="tab-button">History</button>
-          <button id="unit-tab" class="tab-button">Unit Conversion</button>
         </div>
         <!-- Basic Panel -->
         <div id="basic-panel" class="panel active">
@@ -120,24 +119,6 @@
               Clear History
             </div>
           </div>
-        </div>
-        <!-- Unit Conversion Panel -->
-        <div id="unit-panel" class="panel">
-          <div>
-            <select id="from-unit">
-              <option value="meters">Meters</option>
-              <option value="kilometers">Kilometers</option>
-              <option value="miles">Miles</option>
-            </select>
-            <input type="number" id="unit-value" placeholder="Enter value" />
-            <select id="to-unit">
-              <option value="meters">Meters</option>
-              <option value="kilometers">Kilometers</option>
-              <option value="miles">Miles</option>
-            </select>
-            <button onclick="/* convertUnit logic */">Convert</button>
-          </div>
-          <div id="conversion-result"></div>
         </div>
       </div>
       <div class="theme-toggle">

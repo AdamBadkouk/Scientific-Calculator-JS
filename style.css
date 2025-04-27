@@ -330,13 +330,6 @@ button:active {
   transform: scale(1.1);
 }
 
-/* Unit conversion styles */
-#conversion-result {
-  margin-top: 15px;
-  font-size: 18px;
-  color: var(--text-dark);
-}
-
 /* Responsive adjustments */
 @media (max-width: 480px) {
   .calculator {
